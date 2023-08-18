@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I am currently looking for work as a Java developer.
+🌱 I am currently learning the C language at 42 Barcelona.
+👯 I am looking to collaborate on projects that help me develop my knowledge.
+📫 You can reach me at https://www.linkedin.com/in/dlbrtcstll.
+
      
      
     
